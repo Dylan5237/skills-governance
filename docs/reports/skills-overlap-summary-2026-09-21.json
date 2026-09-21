@@ -1,0 +1,380 @@
+{
+  "generatedAt": "2026-09-21T16:03:00+08:00",
+  "totalSkills": 157,
+  "centralLibraryApprox": 92,
+  "duplicateGroups": [
+    {
+      "key": "fireworks-tech-graph",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "fireworks-tech-graph",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\fireworks-tech-graph"
+        },
+        {
+          "name": "fireworks-tech-graph",
+          "provider": "claude",
+          "path": "C:\\Users\\howyo\\.claude\\skills\\fireworks-tech-graph"
+        }
+      ]
+    },
+    {
+      "key": "gitlab-ops",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "gitlab-ops",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\gitlab-ops"
+        },
+        {
+          "name": "gitlab-ops",
+          "provider": "codex",
+          "path": "C:\\Users\\howyo\\.codex\\skills\\gitlab-ops"
+        }
+      ]
+    },
+    {
+      "key": "leader",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "leader",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\leader"
+        },
+        {
+          "name": "leader",
+          "provider": "codex",
+          "path": "C:\\Users\\howyo\\.codex\\skills\\leader"
+        }
+      ]
+    },
+    {
+      "key": "neat-freak",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "neat-freak",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\neat-freak"
+        },
+        {
+          "name": "neat-freak",
+          "provider": "codex",
+          "path": "C:\\Users\\howyo\\.codex\\skills\\neat-freak"
+        }
+      ]
+    },
+    {
+      "key": "officecli",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "officecli",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\officecli"
+        },
+        {
+          "name": "officecli",
+          "provider": "claude",
+          "path": "C:\\Users\\howyo\\.claude\\skills\\officecli"
+        }
+      ]
+    },
+    {
+      "key": "skill-creator",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "skill-creator",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\skill-creator"
+        },
+        {
+          "name": "skill-creator",
+          "provider": "claude",
+          "path": "C:\\Users\\howyo\\.claude\\skills\\skill-creator"
+        }
+      ]
+    },
+    {
+      "key": "smell",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "smell",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\smell"
+        },
+        {
+          "name": "smell",
+          "provider": "codex",
+          "path": "C:\\Users\\howyo\\.codex\\skills\\smell"
+        }
+      ]
+    },
+    {
+      "key": "tiangong-skill-engineer",
+      "reason": "same-dirName",
+      "instances": [
+        {
+          "name": "tiangong-skill-engineer",
+          "provider": "agents",
+          "path": "C:\\Users\\howyo\\.agents\\skills\\tiangong-skill-engineer"
+        },
+        {
+          "name": "tiangong-skill-engineer",
+          "provider": "codex",
+          "path": "C:\\Users\\howyo\\.codex\\skills\\tiangong-skill-engineer"
+        }
+      ]
+    }
+  ],
+  "overlapPairs": [
+    {
+      "score": 0.7282752902316398,
+      "a": {
+        "name": "agent-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\agent-development"
+      },
+      "b": {
+        "name": "skill-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\skill-development"
+      }
+    },
+    {
+      "score": 0.6960165237068043,
+      "a": {
+        "name": "command-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\command-development"
+      },
+      "b": {
+        "name": "skill-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\skill-development"
+      }
+    },
+    {
+      "score": 0.6505409872055277,
+      "a": {
+        "name": "agent-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\agent-development"
+      },
+      "b": {
+        "name": "command-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\command-development"
+      }
+    },
+    {
+      "score": 0.5105812044633751,
+      "a": {
+        "name": "hook-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\hook-development"
+      },
+      "b": {
+        "name": "skill-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\skill-development"
+      }
+    },
+    {
+      "score": 0.4812723441938032,
+      "a": {
+        "name": "agent-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\agent-development"
+      },
+      "b": {
+        "name": "hook-development",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\hook-development"
+      }
+    },
+    {
+      "score": 0.46750611955492954,
+      "a": {
+        "name": "skill-creator",
+        "provider": "agents",
+        "path": "C:\\Users\\howyo\\.agents\\skills\\skill-creator"
+      },
+      "b": {
+        "name": "Template Creator",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-primary-runtime\\template-creator\\26.909.12148"
+      }
+    },
+    {
+      "score": 0.46750611955492954,
+      "a": {
+        "name": "skill-creator",
+        "provider": "claude",
+        "path": "C:\\Users\\howyo\\.claude\\skills\\skill-creator"
+      },
+      "b": {
+        "name": "Template Creator",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-primary-runtime\\template-creator\\26.909.12148"
+      }
+    },
+    {
+      "score": 0.4403376148003672,
+      "a": {
+        "name": "github-skill-installer",
+        "provider": "codex",
+        "path": "C:\\Users\\howyo\\.codex\\skills\\github-skill-installer"
+      },
+      "b": {
+        "name": "GitHub",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-curated-remote\\github\\0.1.12-5f7cd798dc99"
+      }
+    },
+    {
+      "score": 0.43080625107648907,
+      "a": {
+        "name": "arkcli-pricing",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-pricing"
+      },
+      "b": {
+        "name": "arkcli-usage",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-usage"
+      }
+    },
+    {
+      "score": 0.4098511270115997,
+      "a": {
+        "name": "build-mcp-app",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\mcp-server-dev\\skills\\build-mcp-app"
+      },
+      "b": {
+        "name": "codex-app-tools",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-bundled\\codex-app-tools\\0.1.4"
+      }
+    },
+    {
+      "score": 0.4,
+      "a": {
+        "name": "arkcli-code-example",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-code-example"
+      },
+      "b": {
+        "name": "example-skill",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\example-plugin\\skills\\example-skill"
+      }
+    },
+    {
+      "score": 0.4,
+      "a": {
+        "name": "Computer Use",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-bundled\\computer-use\\26.915.31945"
+      },
+      "b": {
+        "name": "unified-computer-use",
+        "provider": "codex-plugin",
+        "path": "C:\\Users\\howyo\\.codex\\plugins\\cache\\openai-bundled\\unified-computer-use\\26.915.31945"
+      }
+    },
+    {
+      "score": 0.4,
+      "a": {
+        "name": "example-command",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\example-plugin\\skills\\example-command"
+      },
+      "b": {
+        "name": "example-skill",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\example-plugin\\skills\\example-skill"
+      }
+    },
+    {
+      "score": 0.3958254035934615,
+      "a": {
+        "name": "build-mcp-app",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\mcp-server-dev\\skills\\build-mcp-app"
+      },
+      "b": {
+        "name": "build-mcp-server",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\mcp-server-dev\\skills\\build-mcp-server"
+      }
+    },
+    {
+      "score": 0.3679494446315077,
+      "a": {
+        "name": "arkcli-custommodel",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-custommodel"
+      },
+      "b": {
+        "name": "arkcli-infer-endpoint",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-infer-endpoint"
+      }
+    },
+    {
+      "score": 0.36603362684850993,
+      "a": {
+        "name": "build-mcp-server",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\mcp-server-dev\\skills\\build-mcp-server"
+      },
+      "b": {
+        "name": "mcp-integration",
+        "provider": "plugin",
+        "path": "C:\\Users\\howyo\\.claude\\plugins\\marketplaces\\claude-plugins-official\\plugins\\plugin-dev\\skills\\mcp-integration"
+      }
+    },
+    {
+      "score": 0.3628360812007042,
+      "a": {
+        "name": "ai-history-daily-report",
+        "provider": "agents",
+        "path": "C:\\Users\\howyo\\.agents\\skills\\ai-history-daily-report"
+      },
+      "b": {
+        "name": "hr-weekly-daily-report",
+        "provider": "claude",
+        "path": "C:\\Users\\howyo\\.claude\\skills\\hr-weekly-daily-report"
+      }
+    },
+    {
+      "score": 0.35277868662436107,
+      "a": {
+        "name": "arkcli-billing",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-billing"
+      },
+      "b": {
+        "name": "arkcli-pricing",
+        "provider": "gemini",
+        "path": "C:\\Users\\howyo\\.gemini\\skills\\arkcli-pricing"
+      }
+    }
+  ],
+  "residencyTopKeys": [
+    "scannedAt",
+    "totalSkills",
+    "totalResidentTokens",
+    "medianResidentTokens",
+    "unmanagedSkills",
+    "candidates",
+    "signals"
+  ]
+}
